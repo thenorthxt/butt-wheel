@@ -1,53 +1,115 @@
-# Fly-Wheel-Coin
-FlyWheelCoin. A Bitcoin-native flywheel.
+# ButtWheel
 
-<img width="1463" height="427" alt="Capture d’écran 2026-01-15 à 00 17 51" src="https://github.com/user-attachments/assets/bb6006fd-480f-4f02-b9e4-9e6d284ab2db" />
+<img width="807" height="251" alt="Capture d’écran 2026-02-02 à 22 25 00" src="https://github.com/user-attachments/assets/6a4176b2-c0d6-49fb-83ef-aa4beb823498" />
 
-CA : 
+X: 
 
-What is FlyWheelCoin?
+CA: 
 
-FlyWheelCoin is a Bitcoin-inspired memetic flywheel designed to roll value forward, not trap it in a single asset.
 
-The core idea is simple:
+ButtWheel is a rotating flywheel designed to sustain momentum across the Buttcoin meme ecosystem.
 
-A wheel doesn’t hold momentum.
-It transfers it.
+It is not built to trap value in a single asset,  
+but to **circulate momentum** while reinforcing its own core.
 
-The FlyWheel Mechanism
+---
 
-FlyWheelCoin operates as a dual-compounding system:
+## Core Thesis
 
-Activity generates fees
+Most meme coins attempt to absorb all attention and liquidity.
 
-Fees are split programmatically:
+ButtWheel takes a different approach:
+- reinforce itself internally
+- while remaining outward-facing to the broader Buttcoin meta
 
-50% → FlyWheelCoin buybacks
+The result is a system that compounds without isolating itself.
 
-50% → $Buttcoin accumulation
+---
 
-Buybacks reinforce FlyWheelCoin’s supply dynamics
+## The ButtWheel Mechanism
 
-Forward allocation compounds into the broader Bitcoin meme meta
+ButtWheel operates as a simple, transparent flywheel.
 
-Meta growth feeds attention back into the wheel
+### High-level flow
 
-The system is designed to rotate, not stall.
+1. **Activity generates fees**
+2. **50% of fees are used to buy back ButtWheel**
+3. **The remaining portion is deployed into the Buttcoin meme layer**
+4. **Internal buybacks reinforce the wheel**
+5. **External deployment aligns ButtWheel with the broader meta**
+6. **Meta growth feeds attention back into the wheel**
+7. **Activity continues**
 
-Why This Works
+The loop stays open.  
+Momentum keeps moving.
 
-Most memecoins try to absorb all value.
+---
 
-FlyWheelCoin does the opposite:
+## Why ButtWheel Works
 
-It reinforces itself
+ButtWheel balances two forces:
 
-While simultaneously feeding a larger gravitational asset
+- **Self-reinforcement**  
+  Buybacks strengthen the wheel internally and support long-term holders.
 
-This creates:
+- **Meta-alignment**  
+  External deployment ensures relevance inside the Buttcoin ecosystem instead of competing against it.
 
-continuous rotation
+This prevents stagnation and keeps ButtWheel structurally connected.
 
-aligned incentives
+---
 
-structural relevance inside the Bitcoin meme ecosystem
+## Design Principles
+
+- No dead-end liquidity  
+- No isolated asset thinking  
+- No dependency on constant launches  
+
+ButtWheel exists to **rotate**, not to hoard.
+
+---
+
+## Value Flow Philosophy
+
+Value is not meant to stop.
+
+When value is allowed to circulate:
+- relevance increases
+- attention persists
+- participation remains organic
+
+ButtWheel treats circulation as a feature, not a leak.
+
+---
+
+## Repository Structure
+
+- `docs/` — mechanism explanations, routing logic, parameters
+- `scripts/` — simulations and flow modeling
+- `programs/` — future on-chain automation
+- `apps/` — dashboards and transparency tools
+- `packages/` — shared primitives
+
+---
+
+## Status
+
+ButtWheel is in the design and modeling phase.
+
+This repository documents:
+- fee routing logic
+- internal vs external reinforcement
+- assumptions and constraints
+
+All mechanics are subject to iteration.
+
+---
+
+## Closing
+
+ButtWheel doesn’t try to dominate the meta.
+
+It stays in motion inside it.
+
+Momentum isn’t captured.  
+It’s rotated.
