@@ -2,7 +2,7 @@
 
 <img width="807" height="251" alt="Capture d’écran 2026-02-02 à 22 25 00" src="https://github.com/user-attachments/assets/6a4176b2-c0d6-49fb-83ef-aa4beb823498" />
 
-X: 
+X: https://x.com/buttwheeltek
 
 CA: 
 
